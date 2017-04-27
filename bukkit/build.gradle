@@ -1,0 +1,8 @@
+dependencies {
+    compile "me.ddevil:shiroi-framework-craft-util:$shiroi_version"
+    compile rootProject
+}
+
+repositories {
+    maven { url "https://hub.spigotmc.org/nexus/content/repositories/snapshots/" }
+}
