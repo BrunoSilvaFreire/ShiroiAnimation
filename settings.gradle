@@ -1,0 +1,3 @@
+include ":bukkit", ":sponge"
+rootProject.name = 'shiroi-animation'
+
